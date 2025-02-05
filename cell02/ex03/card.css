@@ -6,26 +6,26 @@ body {
     align-items: center;
 }
 
-#container {
+.container {
     display: flex;
     flex-direction: column;
     align-items: center;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
 
-#title {
+.title {
     padding: 10px;
     font-size: 28px;
     font-weight: bolder;
 }
 
-#username {
+.username {
     padding: 10px;
     font-size: 24px;
     font-weight: bolder;
 }
 
-#description {
+.description {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -33,12 +33,12 @@ body {
     font-size: 18px;
 }
 
-#level-text{
+.level{
     padding: 10px;
     opacity: 50%;
 }
 
-#social {
+.social {
     padding: 10px;
     width: 60%;
     display: flex;
