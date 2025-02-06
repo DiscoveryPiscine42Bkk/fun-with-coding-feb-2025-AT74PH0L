@@ -1,0 +1,44 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+.parallax1 {
+    background-image: url('https://cdn.indiabioscience.org/imager/articles/411714/Aniruddha_feature-image_4b32b63c5c28c858e051e9d1a2a717a1.png');
+    height: 100vh;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 3em;
+}
+
+.black-block {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 50px;
+    font-size: 2em;
+}
+
+.parallax2 {
+    background-image: url('https://i.ytimg.com/vi/9364lxoXkx8/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLBXxVz37CU6Qzk_O9QCfbdpV2UhFA');
+    height: 100vh;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 3em;
+}
+
+.content {
+    padding: 50px;
+    font-size: 1.5em;
+}
