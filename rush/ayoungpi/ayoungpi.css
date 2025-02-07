@@ -10,13 +10,8 @@ body {
   scroll-behavior: smooth;
 }
 
-.navbar {
-  background-color: #000;
-  transition: all 0.3s ease-in-out;
-}
 .navbar-nav .nav-item:hover {
   text-shadow: 0 0 10px var(--primary-color);
-  transition: background-color 0.3s, box-shadow 0.3s;
 }
 
 .section {
